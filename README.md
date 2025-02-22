@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/alanchrissantony/Leetcode/tree/master/0414-third-maximum-number) |
+## Hash Table
+|  |
+| ------- |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 <!---LeetCode Topics End-->
