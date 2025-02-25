@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0500-keyboard-row](https://github.com/alanchrissantony/Leetcode/tree/master/0500-keyboard-row) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/alanchrissantony/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
 |  |
 | ------- |
