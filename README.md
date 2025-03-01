@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/alanchrissantony/Leetcode/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/alanchrissantony/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0822-unique-morse-code-words](https://github.com/alanchrissantony/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/alanchrissantony/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
