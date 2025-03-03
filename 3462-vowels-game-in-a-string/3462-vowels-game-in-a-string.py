@@ -1,4 +1,4 @@
 class Solution:
     def doesAliceWin(self, s: str) -> bool:
-        vowel={'a', 'e', 'i', 'o', 'u'}
-        return len(set(s).intersection(vowel))>0
+        vowel=frozenset("aeiou")
+        return not vowel.isdisjoint(s)
