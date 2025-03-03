@@ -5,4 +5,4 @@ class Solution:
         for el in s:
             if el in vowel:
                 cnt+=1
-        return cnt>0 and cnt%1==0
+        return cnt>0
