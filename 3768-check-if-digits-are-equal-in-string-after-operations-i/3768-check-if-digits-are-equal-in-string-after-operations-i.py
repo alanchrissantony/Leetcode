@@ -1,11 +1,8 @@
 class Solution:
     def hasSameDigits(self, s: str) -> bool:
-        dx = dy = {}
+        dx = {str(i): i for i in range(10)}
+        dy = {i: str(i) for i in range(10)}
         wl, n=s, len(s)
-        for i in range(10):
-            j=str(i)
-            dx[j],dy[i]=i,j
-            
         while n>2:
             ss=""
             for i in range(1, n):
