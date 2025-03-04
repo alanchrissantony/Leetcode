@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/alanchrissantony/Leetcode/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/alanchrissantony/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/alanchrissantony/Leetcode/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/alanchrissantony/Leetcode/tree/master/0500-keyboard-row) |
 | [0822-unique-morse-code-words](https://github.com/alanchrissantony/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [1894-merge-strings-alternately](https://github.com/alanchrissantony/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/alanchrissantony/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/3462-vowels-game-in-a-string) |
