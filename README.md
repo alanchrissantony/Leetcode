@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/alanchrissantony/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
 | [1894-merge-strings-alternately](https://github.com/alanchrissantony/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/alanchrissantony/Leetcode/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/alanchrissantony/Leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/alanchrissantony/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/alanchrissantony/Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/alanchrissantony/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/alanchrissantony/Leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/alanchrissantony/Leetcode/tree/master/0506-relative-ranks) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/alanchrissantony/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Hash Table
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/alanchrissantony/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Simulation
 |  |
