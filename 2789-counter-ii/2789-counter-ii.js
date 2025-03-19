@@ -6,11 +6,9 @@ var createCounter = function(init) {
     res=init
     return { 
         increment: function(){
-            init+=1
-            return init
+            return ++init
         }, decrement: function(){
-                init-=1
-                return init
+                return --init
         }, reset: function(){
                 init=res
                 return init
