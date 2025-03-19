@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/alanchrissantony/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/alanchrissantony/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/alanchrissantony/Leetcode/tree/master/3429-special-array-i) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/alanchrissantony/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/alanchrissantony/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/alanchrissantony/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/alanchrissantony/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/alanchrissantony/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/alanchrissantony/Leetcode/tree/master/0441-arranging-coins) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/alanchrissantony/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
