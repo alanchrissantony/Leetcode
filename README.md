@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
 | [1894-merge-strings-alternately](https://github.com/alanchrissantony/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/alanchrissantony/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/alanchrissantony/Leetcode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/alanchrissantony/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2308-divide-array-into-equal-pairs](https://github.com/alanchrissantony/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/alanchrissantony/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/alanchrissantony/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/alanchrissantony/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/alanchrissantony/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/alanchrissantony/Leetcode/tree/master/0506-relative-ranks) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/alanchrissantony/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/alanchrissantony/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Hash Table
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/alanchrissantony/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/alanchrissantony/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Simulation
 |  |
