@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/alanchrissantony/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/alanchrissantony/Leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/alanchrissantony/Leetcode/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/alanchrissantony/Leetcode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/alanchrissantony/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alanchrissantony/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/alanchrissantony/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/alanchrissantony/Leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/alanchrissantony/Leetcode/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/alanchrissantony/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
