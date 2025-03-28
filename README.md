@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/alanchrissantony/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
@@ -241,6 +242,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/alanchrissantony/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
