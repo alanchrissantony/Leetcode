@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/alanchrissantony/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/alanchrissantony/Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/alanchrissantony/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/alanchrissantony/Leetcode/tree/master/0724-find-pivot-index) |
 | [0822-unique-morse-code-words](https://github.com/alanchrissantony/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
 | [1656-count-good-triplets](https://github.com/alanchrissantony/Leetcode/tree/master/1656-count-good-triplets) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/alanchrissantony/Leetcode/tree/master/0724-find-pivot-index) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/alanchrissantony/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Enumeration
 |  |
