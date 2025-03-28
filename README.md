@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/alanchrissantony/Leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/alanchrissantony/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/alanchrissantony/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/alanchrissantony/Leetcode/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/alanchrissantony/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alanchrissantony/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/alanchrissantony/Leetcode/tree/master/0219-contains-duplicate-ii) |
