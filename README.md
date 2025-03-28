@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/alanchrissantony/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/alanchrissantony/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/alanchrissantony/Leetcode/tree/master/0344-reverse-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/alanchrissantony/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/alanchrissantony/Leetcode/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/alanchrissantony/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alanchrissantony/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/alanchrissantony/Leetcode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/alanchrissantony/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
