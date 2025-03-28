@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/alanchrissantony/Leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/alanchrissantony/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/alanchrissantony/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1839-decode-xored-array](https://github.com/alanchrissantony/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/alanchrissantony/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/alanchrissantony/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alanchrissantony/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/alanchrissantony/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/alanchrissantony/Leetcode/tree/master/0441-arranging-coins) |
 ## Prefix Sum
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/alanchrissantony/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -239,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/alanchrissantony/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
