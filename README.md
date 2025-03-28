@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/alanchrissantony/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/alanchrissantony/Leetcode/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/alanchrissantony/Leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/alanchrissantony/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alanchrissantony/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/alanchrissantony/Leetcode/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/alanchrissantony/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0441-arranging-coins](https://github.com/alanchrissantony/Leetcode/tree/master/0441-arranging-coins) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/alanchrissantony/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/alanchrissantony/Leetcode/tree/master/0048-rotate-image) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/alanchrissantony/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/alanchrissantony/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
