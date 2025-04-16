@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/alanchrissantony/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/alanchrissantony/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/alanchrissantony/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/alanchrissantony/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/alanchrissantony/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/alanchrissantony/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/alanchrissantony/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/alanchrissantony/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/alanchrissantony/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
 |  |
 | ------- |
