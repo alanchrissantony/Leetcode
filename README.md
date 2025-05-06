@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/alanchrissantony/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/alanchrissantony/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1894-merge-strings-alternately](https://github.com/alanchrissantony/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1904-second-largest-digit-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/alanchrissantony/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/alanchrissantony/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/alanchrissantony/Leetcode/tree/master/0500-keyboard-row) |
 | [0822-unique-morse-code-words](https://github.com/alanchrissantony/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/alanchrissantony/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1904-second-largest-digit-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/alanchrissantony/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/alanchrissantony/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
