@@ -4,5 +4,4 @@ class Solution:
         for i, el in enumerate(number):
             if el == digit:
                 dx.append(number[:i]+number[i+1:])
-            continue
         return max(dx)
