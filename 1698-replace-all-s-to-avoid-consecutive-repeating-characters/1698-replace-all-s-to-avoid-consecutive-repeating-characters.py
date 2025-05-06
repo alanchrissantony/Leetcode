@@ -1,6 +1,6 @@
 class Solution:
     def modifyString(self, s: str) -> str:
-        char="abcdefghijklmnopqrstuvwxyz"
+        char="abc"
         for i, el in enumerate(s):
             if el=='?':
                 for j, alp in enumerate(char):
