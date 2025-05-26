@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/alanchrissantony/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/alanchrissantony/Leetcode/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/alanchrissantony/Leetcode/tree/master/0551-student-attendance-record-i) |
+| [0812-rotate-string](https://github.com/alanchrissantony/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/alanchrissantony/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/alanchrissantony/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/alanchrissantony/Leetcode/tree/master/0812-rotate-string) |
 ## Array
 |  |
 | ------- |
