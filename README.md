@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/alanchrissantony/Leetcode/tree/master/0500-keyboard-row) |
 | [0822-unique-morse-code-words](https://github.com/alanchrissantony/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/alanchrissantony/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1500-count-largest-group](https://github.com/alanchrissantony/Leetcode/tree/master/1500-count-largest-group) |
 | [1904-second-largest-digit-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/alanchrissantony/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/alanchrissantony/Leetcode/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/alanchrissantony/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0441-arranging-coins](https://github.com/alanchrissantony/Leetcode/tree/master/0441-arranging-coins) |
+| [1500-count-largest-group](https://github.com/alanchrissantony/Leetcode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/alanchrissantony/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/alanchrissantony/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/alanchrissantony/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
