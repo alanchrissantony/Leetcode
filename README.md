@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/alanchrissantony/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/alanchrissantony/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/alanchrissantony/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/alanchrissantony/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/alanchrissantony/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/alanchrissantony/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/alanchrissantony/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/alanchrissantony/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/alanchrissantony/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/alanchrissantony/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## Backtracking
 |  |
 | ------- |
