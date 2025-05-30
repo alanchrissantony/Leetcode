@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/alanchrissantony/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/alanchrissantony/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/alanchrissantony/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1894-merge-strings-alternately](https://github.com/alanchrissantony/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/alanchrissantony/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/alanchrissantony/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/alanchrissantony/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/alanchrissantony/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/alanchrissantony/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
