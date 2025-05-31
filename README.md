@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/alanchrissantony/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/alanchrissantony/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/alanchrissantony/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2195-time-needed-to-buy-tickets](https://github.com/alanchrissantony/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/alanchrissantony/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/alanchrissantony/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/alanchrissantony/Leetcode/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/alanchrissantony/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2195-time-needed-to-buy-tickets](https://github.com/alanchrissantony/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/alanchrissantony/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/alanchrissantony/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2195-time-needed-to-buy-tickets](https://github.com/alanchrissantony/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Matrix
 |  |
 | ------- |
