@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/alanchrissantony/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/alanchrissantony/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/alanchrissantony/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alanchrissantony/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/alanchrissantony/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/alanchrissantony/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/alanchrissantony/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/alanchrissantony/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/alanchrissantony/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/alanchrissantony/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/alanchrissantony/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/alanchrissantony/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3227-find-missing-and-repeated-values](https://github.com/alanchrissantony/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/alanchrissantony/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
