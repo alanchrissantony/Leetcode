@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/alanchrissantony/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3625-stone-removal-game](https://github.com/alanchrissantony/Leetcode/tree/master/3625-stone-removal-game) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/alanchrissantony/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/alanchrissantony/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/alanchrissantony/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/alanchrissantony/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/alanchrissantony/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/alanchrissantony/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/alanchrissantony/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
