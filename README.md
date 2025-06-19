@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/alanchrissantony/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -339,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/alanchrissantony/Leetcode/tree/master/1013-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/alanchrissantony/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
