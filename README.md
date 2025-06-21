@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/alanchrissantony/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/alanchrissantony/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0959-3sum-with-multiplicity](https://github.com/alanchrissantony/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/alanchrissantony/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/alanchrissantony/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/alanchrissantony/Leetcode/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/alanchrissantony/Leetcode/tree/master/0551-student-attendance-record-i) |
+| [0696-count-binary-substrings](https://github.com/alanchrissantony/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/alanchrissantony/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/alanchrissantony/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/alanchrissantony/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
