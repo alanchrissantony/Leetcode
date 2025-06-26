@@ -1,8 +1,10 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
-        srt=sorted(nums)
-        if srt==nums:return True
-
-        for i in range(len(nums)):
-            if nums[i:]+nums[:i]==srt:return True
-        return False
+        dx=0
+        n=len(nums)
+        for idx in range(n):
+            if nums[idx]>nums[(idx+1) % n]:
+                dx+=1
+            if dx>1:
+                return False
+        return True
