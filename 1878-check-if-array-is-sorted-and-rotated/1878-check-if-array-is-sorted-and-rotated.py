@@ -1,7 +1,7 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
         srt=sorted(nums)
-        if srt==nums:True
+        if srt==nums:return True
 
         for i in range(len(nums)):
             if nums[i:]+nums[:i]==srt:return True
