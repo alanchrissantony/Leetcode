@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/alanchrissantony/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1656-count-good-triplets](https://github.com/alanchrissantony/Leetcode/tree/master/1656-count-good-triplets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/alanchrissantony/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/alanchrissantony/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1839-decode-xored-array](https://github.com/alanchrissantony/Leetcode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/alanchrissantony/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/alanchrissantony/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/alanchrissantony/Leetcode/tree/master/0415-add-strings) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/alanchrissantony/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2048-build-array-from-permutation](https://github.com/alanchrissantony/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/alanchrissantony/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/alanchrissantony/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/alanchrissantony/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Matrix
 |  |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/alanchrissantony/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/alanchrissantony/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
