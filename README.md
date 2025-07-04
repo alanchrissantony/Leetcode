@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/alanchrissantony/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/alanchrissantony/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/alanchrissantony/Leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alanchrissantony/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/alanchrissantony/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/alanchrissantony/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/alanchrissantony/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/alanchrissantony/Leetcode/tree/master/0290-word-pattern) |
