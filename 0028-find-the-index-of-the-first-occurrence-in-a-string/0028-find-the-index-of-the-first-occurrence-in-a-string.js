@@ -6,7 +6,7 @@
 var strStr = function(haystack, needle) {
     n=needle.length
     let dx=haystack.slice(0, n)
-    for(let i=0; i<(haystack.length)-(n)+1; i++){
+    for(let i=0; i<=(haystack.length)-(n); i++){
         if(dx==needle){
             return i
         }
