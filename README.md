@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/alanchrissantony/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/alanchrissantony/Leetcode/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/alanchrissantony/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/alanchrissantony/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/alanchrissantony/Leetcode/tree/master/0724-find-pivot-index) |
 | [0822-unique-morse-code-words](https://github.com/alanchrissantony/Leetcode/tree/master/0822-unique-morse-code-words) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/alanchrissantony/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/alanchrissantony/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/alanchrissantony/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/alanchrissantony/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 ## Sorting
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/alanchrissantony/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/alanchrissantony/Leetcode/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/alanchrissantony/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0959-3sum-with-multiplicity](https://github.com/alanchrissantony/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/alanchrissantony/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2215-finding-3-digit-even-numbers](https://github.com/alanchrissantony/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/alanchrissantony/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/alanchrissantony/Leetcode/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/alanchrissantony/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0822-unique-morse-code-words](https://github.com/alanchrissantony/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/alanchrissantony/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0959-3sum-with-multiplicity](https://github.com/alanchrissantony/Leetcode/tree/master/0959-3sum-with-multiplicity) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/alanchrissantony/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/alanchrissantony/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/alanchrissantony/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0959-3sum-with-multiplicity](https://github.com/alanchrissantony/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
