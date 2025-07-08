@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/alanchrissantony/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/alanchrissantony/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
