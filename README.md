@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alanchrissantony/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/alanchrissantony/Leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/alanchrissantony/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/alanchrissantony/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/alanchrissantony/Leetcode/tree/master/0441-arranging-coins) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/alanchrissantony/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -379,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/alanchrissantony/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/alanchrissantony/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
