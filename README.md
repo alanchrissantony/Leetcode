@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/alanchrissantony/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/alanchrissantony/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/alanchrissantony/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/alanchrissantony/Leetcode/tree/master/0441-arranging-coins) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/alanchrissantony/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Prefix Sum
@@ -384,4 +385,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/alanchrissantony/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/alanchrissantony/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
