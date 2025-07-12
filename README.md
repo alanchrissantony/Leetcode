@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/alanchrissantony/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/alanchrissantony/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1306-minimum-absolute-difference](https://github.com/alanchrissantony/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/alanchrissantony/Leetcode/tree/master/1656-count-good-triplets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/alanchrissantony/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/alanchrissantony/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/alanchrissantony/Leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [1306-minimum-absolute-difference](https://github.com/alanchrissantony/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/alanchrissantony/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2215-finding-3-digit-even-numbers](https://github.com/alanchrissantony/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/alanchrissantony/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
