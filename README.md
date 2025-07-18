@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/alanchrissantony/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/alanchrissantony/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/alanchrissantony/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/alanchrissantony/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-stone-removal-game](https://github.com/alanchrissantony/Leetcode/tree/master/3625-stone-removal-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/alanchrissantony/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/alanchrissantony/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
