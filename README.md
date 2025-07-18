@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/alanchrissantony/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0959-3sum-with-multiplicity](https://github.com/alanchrissantony/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1708-design-parking-system](https://github.com/alanchrissantony/Leetcode/tree/master/1708-design-parking-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/alanchrissantony/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/alanchrissantony/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/alanchrissantony/Leetcode/tree/master/0415-add-strings) |
+| [1708-design-parking-system](https://github.com/alanchrissantony/Leetcode/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/alanchrissantony/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2048-build-array-from-permutation](https://github.com/alanchrissantony/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/alanchrissantony/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/alanchrissantony/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/alanchrissantony/Leetcode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
