@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/alanchrissantony/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/alanchrissantony/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/alanchrissantony/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/alanchrissantony/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/alanchrissantony/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/alanchrissantony/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Interactive
 |  |
@@ -435,5 +437,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/alanchrissantony/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1708-design-parking-system](https://github.com/alanchrissantony/Leetcode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
