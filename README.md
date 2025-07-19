@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/alanchrissantony/Leetcode/tree/master/0506-relative-ranks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/alanchrissantony/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/0948-sort-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/alanchrissantony/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Binary Search
@@ -375,10 +376,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/alanchrissantony/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/alanchrissantony/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/alanchrissantony/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/alanchrissantony/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/alanchrissantony/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/alanchrissantony/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -444,5 +448,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/alanchrissantony/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/alanchrissantony/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/alanchrissantony/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/alanchrissantony/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1708-design-parking-system](https://github.com/alanchrissantony/Leetcode/tree/master/1708-design-parking-system) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/alanchrissantony/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
