@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/alanchrissantony/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/alanchrissantony/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/alanchrissantony/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/alanchrissantony/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/alanchrissantony/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/alanchrissantony/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
