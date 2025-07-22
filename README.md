@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/alanchrissantony/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1894-merge-strings-alternately](https://github.com/alanchrissantony/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/alanchrissantony/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alanchrissantony/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/alanchrissantony/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/alanchrissantony/Leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/alanchrissantony/Leetcode/tree/master/1013-fibonacci-number) |
 | [1500-count-largest-group](https://github.com/alanchrissantony/Leetcode/tree/master/1500-count-largest-group) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/alanchrissantony/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/alanchrissantony/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2238-a-number-after-a-double-reversal](https://github.com/alanchrissantony/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/alanchrissantony/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
