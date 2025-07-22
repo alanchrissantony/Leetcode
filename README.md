@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/alanchrissantony/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/alanchrissantony/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3790-fruits-into-baskets-ii](https://github.com/alanchrissantony/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/alanchrissantony/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Sliding Window
 |  |
 | ------- |
