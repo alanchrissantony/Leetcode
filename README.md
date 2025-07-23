@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/alanchrissantony/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/alanchrissantony/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/alanchrissantony/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/alanchrissantony/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/alanchrissantony/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1894-merge-strings-alternately](https://github.com/alanchrissantony/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/alanchrissantony/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/alanchrissantony/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/alanchrissantony/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/alanchrissantony/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/alanchrissantony/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/alanchrissantony/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/alanchrissantony/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/alanchrissantony/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/alanchrissantony/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Interactive
 |  |
 | ------- |
