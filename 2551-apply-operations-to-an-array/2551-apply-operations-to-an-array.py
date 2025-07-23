@@ -5,12 +5,9 @@ class Solution:
             if nums[idx]==nums[idx+1]:
                 nums[idx]*=2
                 nums[idx+1]=0
-        dx=idx=0
-        while idx<n:
-            if nums[idx]==0:
-                dx+=1
-                del nums[idx]
-                n-=1
-            else:
-                idx+=1
-        return nums+[0]*dx
+        lft=0
+        for rgt in range(n):
+            if nums[rgt]!=0:
+                nums[lft], nums[rgt] = nums[rgt], nums[lft]
+                lft+=1
+        return nums
