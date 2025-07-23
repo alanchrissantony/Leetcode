@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/alanchrissantony/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/alanchrissantony/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2442-number-of-arithmetic-triplets](https://github.com/alanchrissantony/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/alanchrissantony/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/alanchrissantony/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/alanchrissantony/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/alanchrissantony/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/alanchrissantony/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/alanchrissantony/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/alanchrissantony/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/alanchrissantony/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/alanchrissantony/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/alanchrissantony/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/alanchrissantony/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/alanchrissantony/Leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/alanchrissantony/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/alanchrissantony/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/alanchrissantony/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2442-number-of-arithmetic-triplets](https://github.com/alanchrissantony/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/alanchrissantony/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## Backtracking
 |  |
