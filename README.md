@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/alanchrissantony/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/alanchrissantony/Leetcode/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/alanchrissantony/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/alanchrissantony/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0959-3sum-with-multiplicity](https://github.com/alanchrissantony/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/alanchrissantony/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/alanchrissantony/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/alanchrissantony/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/alanchrissantony/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/alanchrissantony/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/alanchrissantony/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/alanchrissantony/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/alanchrissantony/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/alanchrissantony/Leetcode/tree/master/0724-find-pivot-index) |
 | [0822-unique-morse-code-words](https://github.com/alanchrissantony/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/alanchrissantony/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0948-sort-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/alanchrissantony/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
