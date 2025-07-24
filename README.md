@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/alanchrissantony/Leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3194-find-words-containing-character](https://github.com/alanchrissantony/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/alanchrissantony/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/alanchrissantony/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alanchrissantony/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/alanchrissantony/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/alanchrissantony/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/alanchrissantony/Leetcode/tree/master/0048-rotate-image) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/alanchrissantony/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/alanchrissantony/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/alanchrissantony/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Bit Manipulation
 |  |
 | ------- |
