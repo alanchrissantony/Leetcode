@@ -4,11 +4,11 @@ class Solution:
         for idx, el in enumerate(s):
             if el == c:
                 sp.add(idx+1)
-        dp=[]
+        dp=[0]*len(s)
         for inx, el in enumerate(s):
             mn=float('inf')
             for it in sp:
                 mn=min(mn, abs(it-(inx+1)))
-            dp.append(mn)
+            dp[inx]=mn
         return dp
         
