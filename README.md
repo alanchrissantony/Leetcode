@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/alanchrissantony/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/alanchrissantony/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/alanchrissantony/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/alanchrissantony/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/alanchrissantony/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/alanchrissantony/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Sliding Window
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/alanchrissantony/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alanchrissantony/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/alanchrissantony/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/alanchrissantony/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/alanchrissantony/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/alanchrissantony/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alanchrissantony/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/alanchrissantony/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/alanchrissantony/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Simulation
 |  |
 | ------- |
