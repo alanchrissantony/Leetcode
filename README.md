@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/alanchrissantony/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alanchrissantony/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/alanchrissantony/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/alanchrissantony/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/alanchrissantony/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/alanchrissantony/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/alanchrissantony/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/alanchrissantony/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/alanchrissantony/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/alanchrissantony/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/alanchrissantony/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/alanchrissantony/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/alanchrissantony/Leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/alanchrissantony/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/alanchrissantony/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alanchrissantony/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/alanchrissantony/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/alanchrissantony/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
