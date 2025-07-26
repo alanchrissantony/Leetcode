@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/alanchrissantony/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/alanchrissantony/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/alanchrissantony/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/alanchrissantony/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/alanchrissantony/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/alanchrissantony/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/alanchrissantony/Leetcode/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/alanchrissantony/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/alanchrissantony/Leetcode/tree/master/1500-count-largest-group) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/alanchrissantony/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/alanchrissantony/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/alanchrissantony/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2238-a-number-after-a-double-reversal](https://github.com/alanchrissantony/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
