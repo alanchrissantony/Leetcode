@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/alanchrissantony/Leetcode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/alanchrissantony/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/alanchrissantony/Leetcode/tree/master/1217-relative-sort-array) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/alanchrissantony/Leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1306-minimum-absolute-difference](https://github.com/alanchrissantony/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/alanchrissantony/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/alanchrissantony/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alanchrissantony/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/alanchrissantony/Leetcode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/alanchrissantony/Leetcode/tree/master/1013-fibonacci-number) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/alanchrissantony/Leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alanchrissantony/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
 |  |
