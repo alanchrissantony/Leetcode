@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/alanchrissantony/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/alanchrissantony/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/alanchrissantony/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/alanchrissantony/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/alanchrissantony/Leetcode/tree/master/2551-apply-operations-to-an-array) |
