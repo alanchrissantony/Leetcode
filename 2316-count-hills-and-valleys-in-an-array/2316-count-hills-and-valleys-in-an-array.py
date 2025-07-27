@@ -5,7 +5,6 @@ class Solution:
         curr=1
         for rdx in range(2, len(nums)):
             if (nums[curr]-nums[ldx])*(nums[curr]-nums[rdx])>0:
-                print(nums[ldx], nums[curr], nums[rdx])
                 cnt+=1
                 ldx=curr
             curr+=1
