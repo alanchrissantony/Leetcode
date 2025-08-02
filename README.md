@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alanchrissantony/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/alanchrissantony/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/alanchrissantony/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3469-maximum-height-of-a-triangle](https://github.com/alanchrissantony/Leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/alanchrissantony/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/alanchrissantony/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/alanchrissantony/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/alanchrissantony/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2442-number-of-arithmetic-triplets](https://github.com/alanchrissantony/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/alanchrissantony/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+| [3469-maximum-height-of-a-triangle](https://github.com/alanchrissantony/Leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 ## Backtracking
 |  |
 | ------- |
